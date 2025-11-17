@@ -1,4 +1,4 @@
-# Creating a Playbook Part 1
+# Creating a Playbook with SOAR
 
 ## Objective
 
