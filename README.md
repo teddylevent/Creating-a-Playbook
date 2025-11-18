@@ -12,7 +12,7 @@ The Creating a Playbook Lab project aimed to use SOAR to automate alerts that wo
 - Setting up slack notifications and sending an email when an alert event occurs.
 - Automating system isolation based on user input.
 - Understanding the workflow of a SOAR playbook
-- Development of critical thinking and problem-solving skills in cybersecurity.
+
 
 ### Tools Used
 
