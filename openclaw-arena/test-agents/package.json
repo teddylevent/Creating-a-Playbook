@@ -1,0 +1,14 @@
+{
+  "name": "openclaw-test-agents",
+  "version": "1.0.0",
+  "description": "Test AI agents for OpenClaw Arena",
+  "scripts": {
+    "aggro": "node aggrobot.js",
+    "smart": "node smartbot.js",
+    "random": "node randombot.js",
+    "all": "node aggrobot.js & node smartbot.js & node randombot.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
