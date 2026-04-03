@@ -1,0 +1,15 @@
+{
+  "name": "ai-soccer-league-server",
+  "version": "1.0.0",
+  "description": "AI Soccer League MVP - Backend",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
